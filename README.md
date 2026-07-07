@@ -1,2 +1,2 @@
 # Wars-on-CodeWars
-Solving CodeWars tasks in C/C++ 🐱‍🏍
+Solving CodeWars tasks in various programming languages 🐱‍🏍
